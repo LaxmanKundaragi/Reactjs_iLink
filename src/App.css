@@ -24,9 +24,44 @@
   color: white;
 }
 
+
+span{
+  display:inline-block;
+  background-color: #61dafb;
+  padding: 10px;
+  margin: 5px;
+}
+
+.list-wrapper{
+  border: 1px solid blue;
+  margin: auto;
+  width:500px;
+  margin-top: 10px;
+
+}
+
+.ilink{
+  width: fit-content;
+  height: 40px;
+  width: 40px;
+}
+
+
+
+
 .App-link {
   color: #61dafb;
 }
+
+.serch-row{
+  max-width: 100px;
+  background-color: aliceblue;
+  padding: 5px;
+  margin: auto;
+}
+
+
+
 
 @keyframes App-logo-spin {
   from {
